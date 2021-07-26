@@ -13,7 +13,7 @@
 	
 	<h3>commit한 내용을 취소하고 싶다면.</h3>
 	<p>1. 브렌치 초기화 - 특정 지점으로 초기화 하는 기능</p>
-	<p>2. reverse commit</p>
+	<p>2. reverse commit - 선택한 버전의 이전버전으로 되돌린 내용을 새롭게 commit 한 것</p>
 	
 </body>
 </html>
