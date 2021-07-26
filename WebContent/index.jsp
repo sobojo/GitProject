@@ -18,5 +18,9 @@
 	<p>불필요한 내용 추가</p>
 
 	<p>신규 기능이 개발되는 중</p>
+	<ul>
+      	<li>master</li>
+      	<li>O신규개발</li>
+  	</ul>
 </body>
 </html>
