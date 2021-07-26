@@ -16,12 +16,7 @@
 	<p>2. reverse commit - 선택한 버전의 이전버전으로 되돌린 내용을 새롭게 commit 한 것</p>
 	<p>reverse commit은 선택한 상태의 이전버전으로 돌아가고 현제 가지고 있는 코드를 모두 가지고 간다.</p>
 	<p>불필요한 내용 추가</p>
+
 	
 </body>
-<script>
-	var = msg = "${msg}";
-	if(msg!=""){
-		alert(msg);
-	}
-</script>
 </html>
